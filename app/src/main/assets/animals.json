@@ -1,0 +1,96 @@
+{
+  "animals" : {
+    "itemCount" : 25,
+    "listItems" : [ 
+	{
+      "category" : "Mammals",
+      "description" : "The tiger  is the largest cat species, most recognisable for their pattern of dark vertical stripes on reddish-orange fur with a lighter underside. The species is classified in the genus Panthera with the lion, leopard, jaguar and snow leopard. Tigers are apex predators, primarily preying on ungulates such as deer and bovids. They are territorial and generally solitary but social animals, often requiring large contiguous areas of habitat that support their prey requirements. This, coupled with the fact that they are indigenous to some of the more densely populated places on Earth, has caused significant conflicts with humans.",
+      "food" : "Carnivorous",
+      "foodtype" : "carni.png",
+      "habitat" : "Africa/India",
+      "id" : "0001",
+      "name" : "Lion",
+      "scientific_name" : "Panthera leo",
+      "thumbnail" : "lion.jpg",
+      "youtube" : "nL4k2_5aVV4"
+    }, {
+      "category" : "Mammals",
+      "description" : "Cattle bred specifically for milk production are called milking or dairy cattle; a cow kept to provide milk for one family may be called a house cow or milker. A \"fresh cow\" is a dairy term for a cow or first-calf heifer who has recently given birth, or \"freshened.\"",
+      "food" : "Harnivorous",
+      "foodtype" : "harvi.png",
+      "habitat" : "All around the world",
+      "id" : "0002",
+      "name" : "Cow",
+      "scientific_name" : "Bos taurus",
+      "thumbnail" : "cow.jpg",
+      "youtube" : "6M7nfx1eanE"
+    }, {
+      "category" : "Crocodylinae",
+      "description" : "Crocodiles are large reptiles found in tropical regions of Africa, Asia, the Americas and Australia. They are members of the order Crocodilia, which also includes caimans, gharials and alligators. ... The largest crocodile is the saltwater crocodile.",
+      "food" : "Carnivorous",
+      "foodtype" : "carni.png",
+      "habitat" : "Africa/Australlia/India",
+      "id" : "0003",
+      "name" : "Crocodile",
+      "scientific_name" : "Crocodylinae",
+      "thumbnail" : "crocodile.jpg",
+      "youtube" : "XPXVEhTN-0g"
+    }, {
+      "category" : "Mammals",
+      "description" : "Horses are mammals of the family Equidae. The common horse is the species Equus caballus. It was domesticated from wild horses by humans at least 5000 years ago. They are large, strong animals, and some breeds are used to pull heavy loads. Racehorses can gallop up to 30 miles an hour.",
+      "food" : "Harnivorous",
+      "foodtype" : "harvi.png",
+      "habitat" : "All around the world",
+      "id" : "0004",
+      "name" : "Horse",
+      "scientific_name" : "Equus caballus",
+      "thumbnail" : "horse.jpg",
+      "youtube" : "VkwF8T5czu8"
+    }, {
+      "category" : "Mammals",
+      "description" : "The African bush elephant is the larger of the two species of African elephant.",
+      "food" : "Harnivorous",
+      "foodtype" : "harvi.png",
+      "habitat" : "Africa/Asia",
+      "id" : "0005",
+      "name" : "Elephant",
+      "scientific_name" : "Loxodonta",
+      "thumbnail" : "elephant.jpg",
+      "youtube" : "7LLZj5P5b74"
+    }, {
+      "category" : " Anura",
+      "description" : "A frog is any member of a diverse and largely carnivorous group of short-bodied, tailless amphibians composing the order Anura.",
+      "food" : "Carnivorous",
+      "foodtype" : "carni.png",
+      "habitat" : "All around the world",
+      "id" : "0006",
+      "name" : "Frog",
+      "scientific_name" : "Carnivorous",
+      "thumbnail" : "frog.jpg",
+      "youtube" : "hLdJvkR9MtY"
+    }, {
+      "category" : "Serpentes",
+      "description" : "Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes",
+      "food" : "Carnivorous",
+      "foodtype" : "carni.png",
+      "habitat" : "Except Cold Country",
+      "id" : "0007",
+      "name" : "Snake",
+      "scientific_name" : "Serpentes",
+      "thumbnail" : "snake.jpg",
+      "youtube" : "f6sxca5vSU8"
+    }, {
+      "category" : "Canis lupus",
+      "description" : "The gray wolf or grey wolf, also known as the timber wolf or western wolf, is a canine native to the wilderness and remote areas of Eurasia and North America.",
+      "food" : "Carnivorous",
+      "foodtype" : "carni.png",
+      "habitat" : "America/India/Africa",
+      "id" : "0008",
+      "name" : "Wolf",
+      "scientific_name" : "Canis lupus",
+      "thumbnail" : "wolf.jpg",
+      "youtube" : "rmLIlecxhEA"
+    } 
+	]
+  }
+}
